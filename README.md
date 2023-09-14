@@ -5,6 +5,8 @@ to develop REST API quickly.
 Presentation: [PDF](fast-development-with-spring-ecosystem.pdf)
 
 ## How to start application
+Swagger UI: http://localhost:8080/swagger-ui/index.html#/
+
 ### With MariaDB
 ```sh
 ./gradlew bootRun --args='--spring.profiles.active=mariadb'
