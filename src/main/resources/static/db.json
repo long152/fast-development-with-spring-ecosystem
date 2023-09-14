@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": "0134757599",
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "publicationDate": "1999-01-01"
+    },
+    {
+      "id": "0321127420",
+      "title": "Patterns of Enterprise Application Architecture",
+      "publicationDate": "2022-11-05"
+    },
+    {
+      "id": "0321712943",
+      "title": "Domain-Specific Languages",
+      "publicationDate": "2010-09-23"
+    },
+    {
+      "id": "9780321146533",
+      "title": "Test Driven Development",
+      "publicationDate": "2000-01-01"
+    },
+    {
+      "id": "9780321278654",
+      "title": "Extreme Programming Explained",
+      "publicationDate": "1999-01-01"
+    },
+    {
+      "id": "0321413091",
+      "title": "Implementation Patterns",
+      "publicationDate": "2007-10-23"
+    },
+    {
+      "id": "0764543857",
+      "title": "Expert One-on-One J2EE Design and Development",
+      "publicationDate": "2002-10-23"
+    }
+  ]
+}
